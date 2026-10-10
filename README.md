@@ -21,7 +21,7 @@ A browser extension made to mod flockmod and make it customizable
 12. Reload Flockmod and enjoy!
 ---
 **How to update & Extra mods**
-- This is not the main FlockTheme repo that the update checker uses/guides a user to in the mod, however you can use this repo to get the newest updates! This is synced to the original repo.
+- This is not the main FlockTheme repo that the update checker uses/guides a user to in the mod, however you can use this repo to get the newest updates!
 - When updating, you can remove/uninstall the outdated extension and it's files. Then follow step 1-12 with the new one
 - Your saved settings/themes/imported images should be saved.
 - If you're using another extension, it should still work the same, you can toggle on/off any features included in this mod to favor another!
